@@ -1,16 +1,16 @@
 ### Test Assignment for Telecom Analytics Position.
 
-#### Task 1. 
+#### [Task 1](https://github.com/swankyalex/Telecom-data-analyst-test-assignment/blob/master/task%201/Task_1.ipynb). 
 Используя исторические данные на листе «Timeseries», 
 построить модель временного ряда.  Спрогнозировать  ежедневное поведение ряда в следующие 3 мес.  
 Пояснить выбор метода прогнозирования. Привести оценки качества прогноза.
 
-#### Task 2
+#### [Task 2](https://github.com/swankyalex/Telecom-data-analyst-test-assignment/blob/master/task%202/Task_2.ipynb)
 Задание 2. Используя набор данных на листе «Training» в качестве обучающей выборки, предсказать значения целевой переменной Target 
 для набора данных на листе «Validate».  Пояснить выбор метода. Привести оценки точности 
 и качества предиктивной модели. Построить ROC-кривую. Назвать три наиболее важных предиктора.
 
-#### Task 3
+#### [Task 3](https://github.com/swankyalex/Telecom-data-analyst-test-assignment/blob/master/task%203/Task_3.ipynb)
 Задание 3. В пакете для третьего задания три файла:
 В файле Tariff_plans_change.csv содержатся выборочные данные о транзакциях, связанных с подключениями и отключениями тарифных планов абонентами, которые меняли тарифные планы в первом полугодии 2017 года: 
 
