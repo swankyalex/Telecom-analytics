@@ -1,5 +1,3 @@
-### Test Assignment for Telecom Analytics Position.
-
 #### [Task 1](https://github.com/swankyalex/Telecom-data-analyst-test-assignment/blob/master/task%201/Task_1.ipynb). 
 Используя исторические данные на листе «Timeseries», 
 построить модель временного ряда.  Спрогнозировать  ежедневное поведение ряда в следующие 3 мес.  
